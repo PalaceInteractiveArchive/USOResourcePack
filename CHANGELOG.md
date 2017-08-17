@@ -4,3 +4,7 @@
 
 - Initial entry
 - Revert to 3D item from original pack
+
+## v1.1 (2017-8-16)
+
+- Import missing items

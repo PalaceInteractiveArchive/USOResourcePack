@@ -5,7 +5,7 @@
     "coal_block": "blocks/coal_block",
     "quartz_block_side": "blocks/quartz_block_bottom"
 },
-"elements": [ 
+"elements": [
 {
     "from": [ 1.7, 10.08, 6.48 ],
     "to": [ 14.3, 16.38, 31.05 ],
