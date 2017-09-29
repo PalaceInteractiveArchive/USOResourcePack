@@ -12,3 +12,7 @@
 ## v1.2 (2017-9-27)
 
 - Add HHN items
+
+## v1.3 (2017-09-29)
+
+ - Import halloween cosmetics
