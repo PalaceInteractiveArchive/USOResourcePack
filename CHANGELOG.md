@@ -24,3 +24,7 @@
 ## v1.5 (2017-11-8)
 
 - Add Anniversary Items
+
+## v1.6 (2017-11-21)
+
+- Add Grinchmas Models
