@@ -21,6 +21,14 @@
 
 - Add Mickey Wand
 
-## v1.5 (2018-06-5)
+## v1.5 (2017-11-8)
+
+- Add Anniversary Items
+
+## v1.6 (2017-11-21)
+
+- Add Grinchmas Models
+
+## v1.7 (2018-06-5)
 
 - Add pride ears
