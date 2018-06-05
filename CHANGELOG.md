@@ -20,3 +20,7 @@
 ## v1.4 (2017-10-1)
 
 - Add Mickey Wand
+
+## v1.5 (2018-06-5)
+
+- Add pride ears
