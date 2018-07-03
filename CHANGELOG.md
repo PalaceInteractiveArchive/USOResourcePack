@@ -32,3 +32,7 @@
 ## v1.7 (2018-06-5)
 
 - Add pride ears
+
+## v1.8 (2018-07-2)
+
+- Add new JPRA models
