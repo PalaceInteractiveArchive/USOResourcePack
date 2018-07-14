@@ -36,3 +36,7 @@
 ## v1.8 (2018-07-2)
 
 - Add new JPRA models
+
+## v1.9 (2018-07-14)
+
+- Add credits.txt
