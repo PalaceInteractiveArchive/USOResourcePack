@@ -1,1 +1,157 @@
-{"__comment":"Designed_by_Majorisbr_with_BDcraft_Cubik_PRO_0.95_Beta_-_http://bdcraft.net","textures":{"waterdino2p2":"block/waterdino2p2","hardened_clay_stained_cyan":"block/cyan_terracotta","coal_block":"block/coal_block","quartz_block_bottom":"block/quartz_block_bottom","waterdino2":"block/waterdino2"},"elements":[{"from":[5.5,10,5],"to":[10.5,16,10.5],"rotation":{"origin":[5.5,16,5],"axis":"x","angle":-22.5},"faces":{"down":{"uv":[5.5,4,10.5,10],"texture":"#waterdino2"},"up":{"uv":[5.5,4,10.5,10],"texture":"#waterdino2"},"north":{"uv":[0,0,16,16],"texture":"#waterdino2p2"},"south":{"uv":[5.5,0,10.5,16],"texture":"#waterdino2"},"west":{"uv":[4,0,10,17],"texture":"#waterdino2"},"east":{"uv":[4,0,10,16],"texture":"#waterdino2"}}},{"from":[5.5,16,0],"to":[10.5,19,10],"faces":{"down":{"uv":[5.5,0,10.5,10],"texture":"#coal_block"},"up":{"uv":[5.5,0,10.5,10],"texture":"#waterdino2"},"north":{"uv":[5.5,0,10.5,3],"texture":"#waterdino2"},"south":{"uv":[5.5,0,10.5,3],"texture":"#waterdino2"},"west":{"uv":[6,0,16,3],"texture":"#waterdino2"},"east":{"uv":[6,0,16,3],"texture":"#waterdino2"}}},{"from":[5.5,19,4],"to":[10.5,23,10],"faces":{"up":{"uv":[5.5,4,10.5,10],"texture":"#waterdino2"},"north":{"uv":[5.5,0,10.5,4],"texture":"#waterdino2"},"south":{"uv":[5.5,0,10.5,4],"texture":"#waterdino2"},"west":{"uv":[4,0,10,4],"texture":"#waterdino2"},"east":{"uv":[4,0,10,4],"texture":"#waterdino2"}}},{"from":[6.5,19,2],"to":[9.5,21,4],"faces":{"up":{"uv":[6.5,2,9.5,4],"texture":"#hardened_clay_stained_cyan"},"north":{"uv":[6.5,0,9.5,0],"texture":"#hardened_clay_stained_cyan"},"west":{"uv":[2,0,4,0],"texture":"#hardened_clay_stained_cyan"},"east":{"uv":[12,0,14,0],"texture":"#hardened_clay_stained_cyan"}}},{"from":[6.5,21,3],"to":[9.5,23,4],"faces":{"up":{"uv":[6.5,3,9.5,4],"texture":"#hardened_clay_stained_cyan"},"north":{"uv":[6.5,0,9.5,0],"texture":"#hardened_clay_stained_cyan"},"west":{"uv":[3,0,4,0],"texture":"#hardened_clay_stained_cyan"},"east":{"uv":[12,0,13,0],"texture":"#hardened_clay_stained_cyan"}}},{"from":[6.5,23,5],"to":[9.5,25,12.5],"faces":{"down":{"uv":[9.5,12.5,6.5,5],"texture":"#hardened_clay_stained_cyan"},"up":{"uv":[6.5,5,9.5,12.5],"texture":"#hardened_clay_stained_cyan"},"north":{"uv":[6.5,0,9.5,0],"texture":"#hardened_clay_stained_cyan"},"south":{"uv":[6.5,0,9.5,0],"texture":"#hardened_clay_stained_cyan"},"west":{"uv":[5,0,12.5,0],"texture":"#hardened_clay_stained_cyan"},"east":{"uv":[3.5,0,11,0],"texture":"#hardened_clay_stained_cyan"}}},{"from":[6.5,23,11.5],"to":[9.5,25,18],"rotation":{"origin":[6.5,25,11.5],"axis":"x","angle":22.5},"faces":{"down":{"uv":[16,16,16,8.5],"texture":"#hardened_clay_stained_cyan"},"up":{"uv":[0,8.5,0,16],"texture":"#hardened_clay_stained_cyan"},"north":{"uv":[16,0,16,0],"texture":"#hardened_clay_stained_cyan"},"south":{"uv":[0,0,0,0],"texture":"#hardened_clay_stained_cyan"},"west":{"uv":[8.5,0,16,0],"texture":"#hardened_clay_stained_cyan"},"east":{"uv":[0,0,7.5,0],"texture":"#hardened_clay_stained_cyan"}}},{"from":[6.5,23,4],"to":[9.5,24,5],"faces":{"up":{"uv":[6.5,4,9.5,5],"texture":"#hardened_clay_stained_cyan"},"north":{"uv":[6.5,0,9.5,0],"texture":"#hardened_clay_stained_cyan"},"west":{"uv":[4,0,5,0],"texture":"#hardened_clay_stained_cyan"},"east":{"uv":[11,0,12,0],"texture":"#hardened_clay_stained_cyan"}}},{"from":[5.5,14,1.5],"to":[10.5,14.5,5.5],"rotation":{"origin":[5.5,14.5,1.5],"axis":"x","angle":-22.5},"faces":{"down":{"uv":[0,0,16,16],"texture":"#waterdino2p2"},"up":{"uv":[5.5,0,10.5,4],"texture":"#coal_block"},"north":{"uv":[5.5,1,10.5,1.5],"texture":"#waterdino2"},"south":{"uv":[5.5,1,10.5,1.5],"texture":"#waterdino2"},"west":{"uv":[0,1,4,1.5],"texture":"#waterdino2"},"east":{"uv":[0,1,4,1.5],"texture":"#waterdino2"}}},{"from":[5,21,7],"to":[11,22,7.5],"faces":{"down":{"uv":[11,8,5,7],"texture":"#coal_block"},"up":{"uv":[5,7,11,8],"texture":"#coal_block"},"north":{"uv":[5,0,11,0],"texture":"#coal_block"},"west":{"uv":[7,0,8,0],"texture":"#coal_block"},"east":{"uv":[8,0,9,0],"texture":"#coal_block"}}},{"from":[5.5,0,7],"to":[10.5,12.5,12.5],"faces":{"down":{"uv":[5.5,4,10.5,10],"texture":"#waterdino2"},"up":{"uv":[5.5,4,10.5,10],"texture":"#waterdino2"},"north":{"uv":[0,0,16,16],"texture":"#waterdino2p2"},"south":{"uv":[5.5,0,10.5,16],"texture":"#waterdino2"},"west":{"uv":[4,0,10,16],"texture":"#waterdino2"},"east":{"uv":[4,0,10,16],"texture":"#waterdino2"}}},{"from":[5,21,7.5],"to":[11,22,8],"faces":{"down":{"uv":[11,8,5,7],"texture":"#quartz_block_bottom"},"up":{"uv":[5,7,11,8],"texture":"#quartz_block_bottom"},"south":{"uv":[5,0,11,0],"texture":"#quartz_block_bottom"},"west":{"uv":[7,0,8,0],"texture":"#quartz_block_bottom"},"east":{"uv":[8,0,9,0],"texture":"#quartz_block_bottom"}}}],"display":{"head":{"rotation":[0,0,0],"translation":[0,8.13,-4.35],"scale":[2.6,2.6,2.6]}}}
+{
+"__comment": "Designed by Majorisbr with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
+"textures": {
+    "waterdino2p2": "blocks/waterdino2p2",
+    "hardened_clay_stained_cyan": "blocks/hardened_clay_stained_cyan",
+    "coal_block": "blocks/coal_block",
+    "quartz_block_bottom": "blocks/quartz_block_bottom",
+    "waterdino2": "blocks/waterdino2"
+},
+"elements": [ 
+{
+    "from": [ 5.5, 10, 5 ],
+    "to": [ 10.5, 16, 10.5 ],
+    "rotation": { "origin": [ 5.5, 16, 5 ], "axis": "x", "angle": -22.5 },
+    "faces": {
+        "down":  { "uv": [ 5.5, 4, 10.5, 10 ], "texture": "#waterdino2" },
+        "up":    { "uv": [ 5.5, 4, 10.5, 10 ], "texture": "#waterdino2" },
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#waterdino2p2" },
+        "south": { "uv": [ 5.5, 0, 10.5, 16 ], "texture": "#waterdino2" },
+        "west":  { "uv": [ 4, 0, 10, 17 ], "texture": "#waterdino2" },
+        "east":  { "uv": [ 4, 0, 10, 16 ], "texture": "#waterdino2" }
+    }
+},
+{
+    "from": [ 5.5, 16, 0 ],
+    "to": [ 10.5, 19, 10 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 0, 10.5, 10 ], "texture": "#coal_block" },
+        "up":    { "uv": [ 5.5, 0, 10.5, 10 ], "texture": "#waterdino2" },
+        "north": { "uv": [ 5.5, 0, 10.5, 3 ], "texture": "#waterdino2" },
+        "south": { "uv": [ 5.5, 0, 10.5, 3 ], "texture": "#waterdino2" },
+        "west":  { "uv": [ 6, 0, 16, 3 ], "texture": "#waterdino2" },
+        "east":  { "uv": [ 6, 0, 16, 3 ], "texture": "#waterdino2" }
+    }
+},
+{
+    "from": [ 5.5, 19, 4 ],
+    "to": [ 10.5, 23, 10 ],
+    "faces": {
+        "up":    { "uv": [ 5.5, 4, 10.5, 10 ], "texture": "#waterdino2" },
+        "north": { "uv": [ 5.5, 0, 10.5, 4 ], "texture": "#waterdino2" },
+        "south": { "uv": [ 5.5, 0, 10.5, 4 ], "texture": "#waterdino2" },
+        "west":  { "uv": [ 4, 0, 10, 4 ], "texture": "#waterdino2" },
+        "east":  { "uv": [ 4, 0, 10, 4 ], "texture": "#waterdino2" }
+    }
+},
+{
+    "from": [ 6.5, 19, 2 ],
+    "to": [ 9.5, 21, 4 ],
+    "faces": {
+        "up":    { "uv": [ 6.5, 2, 9.5, 4 ], "texture": "#hardened_clay_stained_cyan" },
+        "north": { "uv": [ 6.5, 0, 9.5, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "west":  { "uv": [ 2, 0, 4, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "east":  { "uv": [ 12, 0, 14, 0 ], "texture": "#hardened_clay_stained_cyan" }
+    }
+},
+{
+    "from": [ 6.5, 21, 3 ],
+    "to": [ 9.5, 23, 4 ],
+    "faces": {
+        "up":    { "uv": [ 6.5, 3, 9.5, 4 ], "texture": "#hardened_clay_stained_cyan" },
+        "north": { "uv": [ 6.5, 0, 9.5, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "west":  { "uv": [ 3, 0, 4, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "east":  { "uv": [ 12, 0, 13, 0 ], "texture": "#hardened_clay_stained_cyan" }
+    }
+},
+{
+    "from": [ 6.5, 23, 5 ],
+    "to": [ 9.5, 25, 12.5 ],
+    "faces": {
+        "down":  { "uv": [ 9.5, 12.5, 6.5, 5 ], "texture": "#hardened_clay_stained_cyan" },
+        "up":    { "uv": [ 6.5, 5, 9.5, 12.5 ], "texture": "#hardened_clay_stained_cyan" },
+        "north": { "uv": [ 6.5, 0, 9.5, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "south": { "uv": [ 6.5, 0, 9.5, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "west":  { "uv": [ 5, 0, 12.5, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "east":  { "uv": [ 3.5, 0, 11, 0 ], "texture": "#hardened_clay_stained_cyan" }
+    }
+},
+{
+    "from": [ 6.5, 23, 11.5 ],
+    "to": [ 9.5, 25, 18 ],
+    "rotation": { "origin": [ 6.5, 25, 11.5 ], "axis": "x", "angle": 22.5 },
+    "faces": {
+        "down":  { "uv": [ 16, 16, 16, 8.5 ], "texture": "#hardened_clay_stained_cyan" },
+        "up":    { "uv": [ 0, 8.5, 0, 16 ], "texture": "#hardened_clay_stained_cyan" },
+        "north": { "uv": [ 16, 0, 16, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "south": { "uv": [ 0, 0, 0, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "west":  { "uv": [ 8.5, 0, 16, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "east":  { "uv": [ 0, 0, 7.5, 0 ], "texture": "#hardened_clay_stained_cyan" }
+    }
+},
+{
+    "from": [ 6.5, 23, 4 ],
+    "to": [ 9.5, 24, 5 ],
+    "faces": {
+        "up":    { "uv": [ 6.5, 4, 9.5, 5 ], "texture": "#hardened_clay_stained_cyan" },
+        "north": { "uv": [ 6.5, 0, 9.5, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "west":  { "uv": [ 4, 0, 5, 0 ], "texture": "#hardened_clay_stained_cyan" },
+        "east":  { "uv": [ 11, 0, 12, 0 ], "texture": "#hardened_clay_stained_cyan" }
+    }
+},
+{
+    "from": [ 5.5, 14, 1.5 ],
+    "to": [ 10.5, 14.5, 5.5 ],
+    "rotation": { "origin": [ 5.5, 14.5, 1.5 ], "axis": "x", "angle": -22.5 },
+    "faces": {
+        "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#waterdino2p2" },
+        "up":    { "uv": [ 5.5, 0, 10.5, 4 ], "texture": "#coal_block" },
+        "north": { "uv": [ 5.5, 1, 10.5, 1.5 ], "texture": "#waterdino2" },
+        "south": { "uv": [ 5.5, 1, 10.5, 1.5 ], "texture": "#waterdino2" },
+        "west":  { "uv": [ 0, 1, 4, 1.5 ], "texture": "#waterdino2" },
+        "east":  { "uv": [ 0, 1, 4, 1.5 ], "texture": "#waterdino2" }
+    }
+},
+{
+    "from": [ 5, 21, 7 ],
+    "to": [ 11, 22, 7.5 ],
+    "faces": {
+        "down":  { "uv": [ 11, 8, 5, 7 ], "texture": "#coal_block" },
+        "up":    { "uv": [ 5, 7, 11, 8 ], "texture": "#coal_block" },
+        "north": { "uv": [ 5, 0, 11, 0 ], "texture": "#coal_block" },
+        "west":  { "uv": [ 7, 0, 8, 0 ], "texture": "#coal_block" },
+        "east":  { "uv": [ 8, 0, 9, 0 ], "texture": "#coal_block" }
+    }
+},
+{
+    "from": [ 5.5, 0, 7 ],
+    "to": [ 10.5, 12.5, 12.5 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 4, 10.5, 10 ], "texture": "#waterdino2" },
+        "up":    { "uv": [ 5.5, 4, 10.5, 10 ], "texture": "#waterdino2" },
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#waterdino2p2" },
+        "south": { "uv": [ 5.5, 0, 10.5, 16 ], "texture": "#waterdino2" },
+        "west":  { "uv": [ 4, 0, 10, 16 ], "texture": "#waterdino2" },
+        "east":  { "uv": [ 4, 0, 10, 16 ], "texture": "#waterdino2" }
+    }
+},
+{
+    "from": [ 5, 21, 7.5 ],
+    "to": [ 11, 22, 8 ],
+    "faces": {
+        "down":  { "uv": [ 11, 8, 5, 7 ], "texture": "#quartz_block_bottom" },
+        "up":    { "uv": [ 5, 7, 11, 8 ], "texture": "#quartz_block_bottom" },
+        "south": { "uv": [ 5, 0, 11, 0 ], "texture": "#quartz_block_bottom" },
+        "west":  { "uv": [ 7, 0, 8, 0 ], "texture": "#quartz_block_bottom" },
+        "east":  { "uv": [ 8, 0, 9, 0 ], "texture": "#quartz_block_bottom" }
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 8.13, -4.35 ],
+        "scale": [ 2.6, 2.6, 2.6 ]
+    }
+}
+}
