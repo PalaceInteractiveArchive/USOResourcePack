@@ -4,7 +4,6 @@
         "layer0": "items/shears"
     },
 	"overrides": [
-		{ "predicate": { "damage": 0.004201680672 }, "model": "item/bb8head" },
-		{ "predicate": { "damage": 0.008403361345 }, "model": "item/bb8" }
+		{ "predicate": { "damage": 0.004201680672 }, "model": "item/broomstick" }
 	]
 }
