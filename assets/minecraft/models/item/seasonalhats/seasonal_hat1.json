@@ -2,10 +2,10 @@
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "block/e_particle",
-		"texture": "item/dye_powder_black",
+		"texture": "item/ink_sac",
 		"texture1": "block/purple_wool",
 		"texture2": "block/furnace_top",
-		"texture3": "block/hardened_clay_stained_purple",
+		"texture3": "block/purple_terracotta",
 		"texture4": "block/black_wool"
 	},
 	"elements": [ 	 

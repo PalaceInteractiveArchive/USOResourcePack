@@ -2,7 +2,7 @@
   "__comment": "Designed_by_Majorisbr_with_BDcraft_Cubik_PRO_0.95_Beta_-_http://bdcraft.net",
   "textures": {
     "waterdino2p2": "block/waterdino2p2",
-    "hardened_clay_stained_cyan": "block/cyan_terracotta",
+    "cyan_terracotta": "block/cyan_terracotta",
     "coal_block": "block/coal_block",
     "quartz_block_bottom": "block/quartz_block_bottom",
     "waterdino2": "block/waterdino2"
@@ -231,7 +231,7 @@
             9.5,
             4
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "north": {
           "uv": [
@@ -240,7 +240,7 @@
             9.5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "west": {
           "uv": [
@@ -249,7 +249,7 @@
             4,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "east": {
           "uv": [
@@ -258,7 +258,7 @@
             14,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         }
       }
     },
@@ -281,7 +281,7 @@
             9.5,
             4
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "north": {
           "uv": [
@@ -290,7 +290,7 @@
             9.5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "west": {
           "uv": [
@@ -299,7 +299,7 @@
             4,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "east": {
           "uv": [
@@ -308,7 +308,7 @@
             13,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         }
       }
     },
@@ -331,7 +331,7 @@
             6.5,
             5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "up": {
           "uv": [
@@ -340,7 +340,7 @@
             9.5,
             12.5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "north": {
           "uv": [
@@ -349,7 +349,7 @@
             9.5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "south": {
           "uv": [
@@ -358,7 +358,7 @@
             9.5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "west": {
           "uv": [
@@ -367,7 +367,7 @@
             12.5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "east": {
           "uv": [
@@ -376,7 +376,7 @@
             11,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         }
       }
     },
@@ -408,7 +408,7 @@
             16,
             8.5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "up": {
           "uv": [
@@ -417,7 +417,7 @@
             0,
             16
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "north": {
           "uv": [
@@ -426,7 +426,7 @@
             16,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "south": {
           "uv": [
@@ -435,7 +435,7 @@
             0,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "west": {
           "uv": [
@@ -444,7 +444,7 @@
             16,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "east": {
           "uv": [
@@ -453,7 +453,7 @@
             7.5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         }
       }
     },
@@ -476,7 +476,7 @@
             9.5,
             5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "north": {
           "uv": [
@@ -485,7 +485,7 @@
             9.5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "west": {
           "uv": [
@@ -494,7 +494,7 @@
             5,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "east": {
           "uv": [
@@ -503,7 +503,7 @@
             12,
             0
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         }
       }
     },

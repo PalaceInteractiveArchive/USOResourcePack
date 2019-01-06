@@ -2,7 +2,7 @@
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "block/e_particle",
-		"texture": "block/cobblestone_mossy",
+		"texture": "block/mossy_cobblestone",
 		"texture1": "block/light_gray_wool",
 		"texture2": "block/clay"
 	},

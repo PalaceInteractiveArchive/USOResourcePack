@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/e_particle",
 		"texture": "block/orange_wool",
-		"texture1": "block/hardened_clay_stained_green",
+		"texture1": "block/green_terracotta",
 		"texture2": "custom/jackolantern1"
 	},
 	"elements": [

@@ -3,7 +3,7 @@
   "textures": {
     "texture": "block/jaws",
     "cauldron_inner": "block/cauldron_inner",
-    "hardened_clay_stained_pink": "block/pink_terracotta",
+    "pink_terracotta": "block/pink_terracotta",
     "quartz_block_bottom": "block/quartz_block_bottom"
   },
   "elements": [
@@ -589,7 +589,7 @@
             16,
             12
           ],
-          "texture": "#hardened_clay_stained_pink"
+          "texture": "#pink_terracotta"
         },
         "up": {
           "uv": [
@@ -666,7 +666,7 @@
             16,
             7
           ],
-          "texture": "#hardened_clay_stained_pink"
+          "texture": "#pink_terracotta"
         },
         "north": {
           "uv": [

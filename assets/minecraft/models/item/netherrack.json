@@ -7,11 +7,11 @@
     "iron_bars": "block/iron_bars",
     "black_wool": "block/black_wool",
     "piston_top_normal": "block/piston_top",
-    "hardened_clay_stained_cyan": "block/cyan_terracotta",
+    "cyan_terracotta": "block/cyan_terracotta",
     "planks_jungle": "block/jungle_planks",
     "planks_oak": "block/oak_planks",
     "redstone_block": "block/redstone_block",
-    "hardened_clay_stained_blue": "block/blue_terracotta",
+    "blue_terracotta": "block/blue_terracotta",
     "bed_head_top": "block/bed_head_top",
     "sea_lantern": "block/sea_lantern",
     "jukebox_side": "block/jukebox_side",
@@ -4105,7 +4105,7 @@
             5.5,
             3.5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "north": {
           "uv": [
@@ -4114,7 +4114,7 @@
             10,
             15.5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "south": {
           "uv": [
@@ -4123,7 +4123,7 @@
             10.5,
             15.5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "west": {
           "uv": [
@@ -4132,7 +4132,7 @@
             16,
             15.5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         },
         "east": {
           "uv": [
@@ -4141,7 +4141,7 @@
             12.5,
             15.5
           ],
-          "texture": "#hardened_clay_stained_cyan"
+          "texture": "#cyan_terracotta"
         }
       }
     },
@@ -6810,7 +6810,7 @@
             9.1875,
             16
           ],
-          "texture": "#hardened_clay_stained_blue"
+          "texture": "#blue_terracotta"
         },
         "up": {
           "uv": [
@@ -6819,7 +6819,7 @@
             6.8125,
             16
           ],
-          "texture": "#hardened_clay_stained_blue"
+          "texture": "#blue_terracotta"
         },
         "north": {
           "uv": [
@@ -6828,7 +6828,7 @@
             14.1875,
             10.5
           ],
-          "texture": "#hardened_clay_stained_blue"
+          "texture": "#blue_terracotta"
         },
         "south": {
           "uv": [
@@ -6837,7 +6837,7 @@
             6.8125,
             10.5
           ],
-          "texture": "#hardened_clay_stained_blue"
+          "texture": "#blue_terracotta"
         },
         "west": {
           "uv": [
@@ -6846,7 +6846,7 @@
             16,
             10.5
           ],
-          "texture": "#hardened_clay_stained_blue"
+          "texture": "#blue_terracotta"
         },
         "east": {
           "uv": [
@@ -6855,7 +6855,7 @@
             0,
             10.5
           ],
-          "texture": "#hardened_clay_stained_blue"
+          "texture": "#blue_terracotta"
         }
       }
     },
