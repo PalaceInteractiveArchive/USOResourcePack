@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_red",
-		"2": "blocks/concrete_yellow",
-		"particle": "blocks/hardened_clay_stained_red"
+		"0": "block/red_terracotta",
+		"2": "block/yellow_concrete",
+		"particle": "block/red_terracotta"
 	},
 	"elements": [
 		{

@@ -5,10 +5,10 @@
 		"texture": "block/yellow_terracotta",
 		"texture1": "block/crown",
 		"texture2": "block/crown_rim",
-		"texture3": "block/wool_colored_red",
+		"texture3": "block/red_wool",
 		"texture4": "block/emerald_block",
-		"texture5": "block/planks_oak",
-		"texture6": "block/planks_oak"
+		"texture5": "block/oak_planks",
+		"texture6": "block/oak_planks"
 	},
 	"elements": [
 		{

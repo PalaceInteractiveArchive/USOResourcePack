@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "blocks/brick",
-		"3": "blocks/planks_spruce",
-		"particle": "blocks/brick"
+		"2": "block/bricks",
+		"3": "block/spruce_planks",
+		"particle": "block/bricks"
 	},
 	"elements": [
 		{
