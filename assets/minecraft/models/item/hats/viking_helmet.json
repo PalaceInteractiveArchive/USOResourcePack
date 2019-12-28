@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "blocks/hardened_clay_stained_yellow",
-		"7": "blocks/hay_block_side",
-		"8": "blocks/bone_block_side"
+		"6": "block/yellow_terracotta",
+		"7": "block/hay_block_side",
+		"8": "block/bone_block_side"
 	},
 	"elements": [
 		{
